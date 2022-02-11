@@ -16,9 +16,11 @@ You can talk to me about -
 
 [![Ankur's GitHub stats](https://github-readme-stats.vercel.app/api?username=ankurchavda&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
+Connect with me:  
+
 <p align='left'>
     <a href="https://www.linkedin.com/in/ankur-chavda-a43018114/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+    <img width="30px" alt="LinkedIn" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
+    </a> 
 </p>
 
