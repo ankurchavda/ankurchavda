@@ -19,7 +19,7 @@ You can talk to me about -
 Connect with me:  
 
 <p align='left'>
-    <a href="https://www.linkedin.com/in/ankur-chavda-a43018114/">
+    <a href="https://www.linkedin.com/in/ankur-chavda/">
     <img width="30px" alt="LinkedIn" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
     </a> 
 </p>
